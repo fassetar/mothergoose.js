@@ -8,6 +8,8 @@ Toying with the idea and fun of just creating my own js lib.
 
 #Example
 
+```
 <script template>
     <html></html>
 </script>
+```
