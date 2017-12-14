@@ -1,8 +1,11 @@
 # mothergoose.js
 
-Toying with the idea/fun of just creating my own js lib. Do not use this project without 
+Toying with the idea/fun of just creating my own js lib. Do not use this project
 
-- Reference
+
+#Things to work on
+
+- References
 - Virtual Repeating DOM
 - URL/Inline Templating
 
