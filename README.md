@@ -7,6 +7,7 @@ Toying with the idea/fun of just creating my own js lib. Do not use this project
 - Model/function json
 - html to json, convert. 
 - output to angular/reactjs/vue.js compontent.
+- mongodb schema compatible.
 
 #Example
 
