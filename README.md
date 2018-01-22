@@ -4,10 +4,9 @@ Toying with the idea/fun of just creating my own js lib. Do not use this project
 
 
 #Things to work on
-
-- References
-- Virtual Repeating DOM
-- URL/Inline Templating
+- Model/function json
+- html to json, convert. 
+- output to angular/reactjs/vue.js compontent.
 
 #Example
 
